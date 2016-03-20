@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+ I have learned about how to use a application called Codepen and how easy Codepen makes it to render webpages, as well as being able to exercise HTML more. Thus far what I would have considered "easy" would be utilizing the links provided and searching for the elements "hinted" at in the assignment. What is difficult is comparing my index.html to the image provided in the provided downloadables and being certain they are identical. I have not used all strategies I described for myself in the first assigment, but I have used some. The strategies I have implemented are "googling", and I spent a short time searching for class discussion content but did not seem to find anything of use.  
